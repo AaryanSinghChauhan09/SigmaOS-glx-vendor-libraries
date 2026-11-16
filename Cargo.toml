@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-glx-vendor-libraries"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS glx-vendor-libraries component - graphics"
+
+[lib]
+name = "glx_vendor_libraries"
+path = "src/lib.rs"
