@@ -3,7 +3,7 @@ name = "SigmaOS-glx-vendor-libraries"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "glx-vendor-libraries component"
+description = "GLX Vendor Libraries"
 upstream = []
 
 [contract]
